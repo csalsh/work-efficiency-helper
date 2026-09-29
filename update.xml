@@ -3,6 +3,6 @@
   <app appid="pdnakapfioaepbkkchnoemdeelfjmjmh">
     <updatecheck
       codebase="https://github.com/csalsh/work-efficiency-helper/releases/download/v1.6/efficiency-extension.crx"
-      version="1.6" />
+      version="2.0" />
   </app>
 </gupdate>
