@@ -2,7 +2,7 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="pdnakapfioaepbkkchnoemdeelfjmjmh">
     <updatecheck
-      codebase="https://github.com/csalsh/work-efficiency-helper/releases/download/v2.6/efficiency-extension.crx"
-      version="2.6" />
+      codebase="https://github.com/csalsh/work-efficiency-helper/releases/download/v2.61/efficiency-extension.crx"
+      version="2.61" />
   </app>
 </gupdate>
